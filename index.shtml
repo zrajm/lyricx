@@ -1,0 +1,13 @@
+<html>
+<head><title>The LyricX Archive.</title></head>
+
+<frameset frameborder=1 border=2 cols="25%,*">
+	<frame name="menu" src="menu.html" marginheight=2 marginwidth=2>
+	<frame name="main" src="blank.html">
+</frameset>
+
+<noframes>
+    <!--#include virtual="menu.html" -->
+</noframes>
+
+</html>
