@@ -1,0 +1,5 @@
+-*- org -*-
+
+* [0/1] Work through earlier history
+** TODO Merge commits with same timestamp
+* [eof]
